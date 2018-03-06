@@ -1,0 +1,6 @@
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\b\Business\bin\Debug\BusinessObjects.dll
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\b\Business\bin\Debug\BusinessObjects.pdb
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\i\Business\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\i\Business\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\i\Business\Debug\BusinessObjects.dll
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\i\Business\Debug\BusinessObjects.pdb

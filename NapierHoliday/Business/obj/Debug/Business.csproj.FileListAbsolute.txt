@@ -1,0 +1,29 @@
+C:\Users\ovidi\Desktop\uni y2\c#\cw2\napier\NapierHoliday\Business\bin\Debug\BusinessObjects.dll
+C:\Users\ovidi\Desktop\uni y2\c#\cw2\napier\NapierHoliday\Business\bin\Debug\BusinessObjects.pdb
+C:\Users\ovidi\Desktop\uni y2\c#\cw2\napier\NapierHoliday\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\ovidi\Desktop\uni y2\c#\cw2\napier\NapierHoliday\Business\obj\Debug\BusinessObjects.dll
+C:\Users\ovidi\Desktop\uni y2\c#\cw2\napier\NapierHoliday\Business\obj\Debug\BusinessObjects.pdb
+C:\Users\40283288\Desktop\cw2\napier\NapierHoliday\Business\bin\Debug\BusinessObjects.dll
+C:\Users\40283288\Desktop\cw2\napier\NapierHoliday\Business\bin\Debug\BusinessObjects.pdb
+C:\Users\40283288\Desktop\cw2\napier\NapierHoliday\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\40283288\Desktop\cw2\napier\NapierHoliday\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\40283288\Desktop\cw2\napier\NapierHoliday\Business\obj\Debug\BusinessObjects.dll
+C:\Users\40283288\Desktop\cw2\napier\NapierHoliday\Business\obj\Debug\BusinessObjects.pdb
+C:\Users\ovidi\Desktop\cw2\napier\NapierHoliday\Business\bin\Debug\BusinessObjects.dll
+C:\Users\ovidi\Desktop\cw2\napier\NapierHoliday\Business\bin\Debug\BusinessObjects.pdb
+C:\Users\ovidi\Desktop\cw2\napier\NapierHoliday\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\ovidi\Desktop\cw2\napier\NapierHoliday\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\ovidi\Desktop\cw2\napier\NapierHoliday\Business\obj\Debug\BusinessObjects.dll
+C:\Users\ovidi\Desktop\cw2\napier\NapierHoliday\Business\obj\Debug\BusinessObjects.pdb
+D:\cw2\napier\NapierHoliday\Business\bin\Debug\BusinessObjects.dll
+D:\cw2\napier\NapierHoliday\Business\bin\Debug\BusinessObjects.pdb
+D:\cw2\napier\NapierHoliday\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+D:\cw2\napier\NapierHoliday\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\cw2\napier\NapierHoliday\Business\obj\Debug\BusinessObjects.dll
+D:\cw2\napier\NapierHoliday\Business\obj\Debug\BusinessObjects.pdb
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\Business\bin\Debug\BusinessObjects.dll
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\Business\bin\Debug\BusinessObjects.pdb
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\Business\obj\Debug\BusinessObjects.dll
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\Business\obj\Debug\BusinessObjects.pdb

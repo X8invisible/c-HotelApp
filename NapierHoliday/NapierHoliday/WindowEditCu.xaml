@@ -1,0 +1,34 @@
+﻿<Window x:Class="NapierHoliday.WindowEditCu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NapierHoliday"
+        mc:Ignorable="d"
+        Title="WindowEditCu" Height="280.542" Width="452.203">
+    <Grid>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="25" TextWrapping="Wrap" VerticalAlignment="Top" Width="109" Margin="71,51,0,0" />
+        <TextBox x:Name="txtAddr" HorizontalAlignment="Left" Height="25" TextWrapping="Wrap" VerticalAlignment="Top" Width="109" Margin="71,81,0,0" />
+        <Label x:Name="lblName" Content="Name" HorizontalAlignment="Left" Margin="10,51,0,0" VerticalAlignment="Top" Width="56" Height="25"/>
+        <Label x:Name="lblAddr" Content="Address" HorizontalAlignment="Left" Margin="10,81,0,0" VerticalAlignment="Top" Height="25" Width="56"/>
+        <Button x:Name="btnEdit" Content="Save Changes" HorizontalAlignment="Left" Margin="45,131,0,0" VerticalAlignment="Top" Width="97" Height="27" Click="btnEdit_Click" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <DataGrid x:Name="dgridBookings" Height="157" Margin="198,16,10,0" VerticalAlignment="Top" AutoGenerateColumns="False" IsReadOnly="True" MouseDoubleClick="dgridBookings_MouseDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Booking No." Binding="{Binding BookingRefference}" Width="80"/>
+                <DataGridTextColumn Header="Arrival" Binding="{Binding Arrival, StringFormat='dd-MM-yyyy'}" Width="*"/>
+                <DataGridTextColumn Header="Departure" Binding="{Binding Departure, StringFormat='dd-MM-yyyy'}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="btnDel" Content="Delete Booking" Margin="0,180,10,0" VerticalAlignment="Top" Height="27" Click="btnDel_Click" HorizontalAlignment="Right" Width="90"/>
+        <Button x:Name="btnNew" Content="New Booking" HorizontalAlignment="Left" Margin="198,180,0,0" VerticalAlignment="Top" Width="90" Height="27" Click="btnNew_Click"/>
+        <Button x:Name="btnArrowBack" Margin="10,14,409,204" Click="btnArrowBack_Click">
+            <Button.Template>
+                <ControlTemplate>
+                    <Image Source="Resources/backArrow.png"/>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button x:Name="btnDelCu" Content="Delete Customer" HorizontalAlignment="Left" Margin="45,180,0,0" VerticalAlignment="Top" Width="97" Height="27" Click="btnDelCu_Click"/>
+        <Label Content="Double click a booking for editing" HorizontalAlignment="Left" Margin="198,214,0,0" VerticalAlignment="Top" Width="236"/>
+    </Grid>
+</Window>

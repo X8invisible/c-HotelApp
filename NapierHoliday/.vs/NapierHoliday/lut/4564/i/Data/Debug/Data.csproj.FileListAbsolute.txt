@@ -1,0 +1,5 @@
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\b\Data\bin\Debug\Data.dll
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\b\Data\bin\Debug\Data.pdb
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\i\Data\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\i\Data\Debug\Data.dll
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\i\Data\Debug\Data.pdb

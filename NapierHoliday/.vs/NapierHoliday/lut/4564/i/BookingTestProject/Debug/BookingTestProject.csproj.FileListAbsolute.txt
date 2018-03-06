@@ -1,0 +1,9 @@
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\i\BookingTestProject\Debug\BookingTestProject.csprojResolveAssemblyReference.cache
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\i\BookingTestProject\Debug\BookingTestProject.csproj.CoreCompileInputs.cache
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\i\BookingTestProject\Debug\UnitTestProject1.dll
+C:\Users\ovidi\Desktop\cw2 final\napier\NapierHoliday\.vs\NapierHoliday\lut\0\i\BookingTestProject\Debug\UnitTestProject1.pdb
